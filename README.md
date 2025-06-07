@@ -29,7 +29,7 @@
     <br>:star: участвовать в разработке крупных коммерческих проектов
     <br>:star: стать не только профессионалом в сфере frontend разработки, но и <br> высококвалифицированным fullstack разработчиком</h3>
   </p>
-</div><br>
+</div>
 
 ###
 
@@ -48,7 +48,7 @@
   </a>
   <a href="mailto:skarakoskin@yandex.ru">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3crUOiNDBY7CuIDrCqJaHCV6CoJ3vs3WmLATP3zVtD5lE86qH8Hl2pgCTtL3KxHcFVI&usqp=CAU" height="25"  alt="yandex logo"  />
-  </a><br>
+  </a><br><br>
 
 ###
 
@@ -96,6 +96,12 @@
 </div><br>
 
 ###
+<h3>Codewars and LeetCode:</h3>
+
+![Codewars](https://github.r2v.ch/codewars?user=SergeySKA10&theme=gradient)
+![](https://leetcard.jacoblin.cool/SergeySK?animation=true&border=0)
+
+###
 <h3>:computer: Languages:</h3>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -105,6 +111,7 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://nirzak-streak-stats.vercel.app/?user=sergeyska10&theme=dark&hide_border=false)
+  
 
 ###
 <h3>🏆 GitHub Trophies:</h3>
