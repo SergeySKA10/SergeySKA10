@@ -5,12 +5,6 @@
   <a href="https://wa.me/79107139617" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
    </a>
-  <a href="mailto:karakoskinsergej@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="mailto:skarakoskin@yandex.ru">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3crUOiNDBY7CuIDrCqJaHCV6CoJ3vs3WmLATP3zVtD5lE86qH8Hl2pgCTtL3KxHcFVI&usqp=CAU" height="25"  alt="yandex logo"  />
-  </a>
 </div>
 
 ###
@@ -37,18 +31,23 @@
   - 🔭 В настоящее время работаю над проектом <a href="https://github.com/SergeySKA10/mortgage/tree/next">Mortgage</a><br><br>
   - 📚  Все мои проекты доступны в <a href="http://sergeykarakoskin.ru/">портфолио</a><br><br>
   - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
-   <a href="https://t.me/karakoskinsergey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/79107139617" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-   </a>
-  <a href="mailto:karakoskinsergej@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="mailto:skarakoskin@yandex.ru">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3crUOiNDBY7CuIDrCqJaHCV6CoJ3vs3WmLATP3zVtD5lE86qH8Hl2pgCTtL3KxHcFVI&usqp=CAU" height="25"  alt="yandex logo"  />
-  </a><br><br>
+    <a href="https://vk.com/sergeykarakoskin">
+      <img src="https://img.icons8.com/?size=64&id=Mgea1VSzCVcS&format=png" alt="vk logo" height="40" />
+    </a> &nbsp;&nbsp;
+    <a href="https://vk.com/sergeykarakoskin">
+      <img src="https://img.icons8.com/?size=80&id=yEmPT1iidhE0&format=png" alt="telegram logo" height="37" />
+    </a> &nbsp;&nbsp;
+    <a href="https://vk.com/sergeykarakoskin">
+      <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="what's up logo" height="40" />
+    </a> &nbsp;&nbsp;
+    <a href="https://vk.com/sergeykarakoskin">
+      <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="instagram logo" height="40" />
+    </a> &nbsp;&nbsp;
+  <br><br>
+  - :e-mail: Email:&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="gmail logo" height="20" /> <i>karakoskinsergej@gmail.com</i>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=80&id=Lte3xbvdkIse&format=png" alt="yandex logo" height="20" /> <i>skarakoskin@yandex.ru</i>
+  <br><br>
 
 ###
 
