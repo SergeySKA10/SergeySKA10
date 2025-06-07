@@ -4,6 +4,12 @@
   </a>
   <a href="https://wa.me/79107139617" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+   </a>
+  <a href="mailto:karakoskinsergej@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="mailto:skarakoskin@yandex.ru">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3crUOiNDBY7CuIDrCqJaHCV6CoJ3vs3WmLATP3zVtD5lE86qH8Hl2pgCTtL3KxHcFVI&usqp=CAU" height="25"  alt="yandex logo"  />
   </a>
 </div>
 
@@ -29,16 +35,20 @@
 
 <p align="left">
   - 🔭 В настоящее время работаю над проектом <a href="https://github.com/SergeySKA10/mortgage/tree/next">Mortgage</a><br><br>
-  - 📚  Все мои проекты доступны на <a href="http://sergeykarakoskin.ru/">моем сайте</a><br><br>
+  - 📚  Все мои проекты доступны в <a href="http://sergeykarakoskin.ru/">портфолио</a><br><br>
   - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
-   <a href="mailto:karakoskinsergej@gmail.com">GMAIL</a>&nbsp;&nbsp;
-   <a href="mailto:skarakoskin@yandex.ru">Yandex</a>&nbsp;&nbsp;
    <a href="https://t.me/karakoskinsergey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-   </a>&nbsp;&nbsp;
-   <a href="https://wa.me/79107139617" target="_blank">
+  </a>
+  <a href="https://wa.me/79107139617" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
    </a>
+  <a href="mailto:karakoskinsergej@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="mailto:skarakoskin@yandex.ru">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt3crUOiNDBY7CuIDrCqJaHCV6CoJ3vs3WmLATP3zVtD5lE86qH8Hl2pgCTtL3KxHcFVI&usqp=CAU" height="25"  alt="yandex logo"  />
+  </a><br>
 
 ###
 
@@ -83,6 +93,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-</div>
+</div><br>
 
 ###
+<h3>:computer: Languages:</h3>
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+<h3>📊 GitHub Stats:</h3>
+
+  ![](https://github-readme-stats.vercel.app/api?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=sergeyska10&theme=dark&hide_border=false)
+
+###
+<h3>🏆 GitHub Trophies:</h3>
+
+![](https://github-profile-trophy.vercel.app/?username=sergeyska10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
