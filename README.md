@@ -34,10 +34,10 @@
     <a href="https://vk.com/sergeykarakoskin">
       <img src="https://img.icons8.com/?size=64&id=Mgea1VSzCVcS&format=png" alt="vk logo" height="40" />
     </a> &nbsp;&nbsp;
-    <a href="https://vk.com/sergeykarakoskin">
+    <a href="https://t.me/karakoskinsergey">
       <img src="https://img.icons8.com/?size=80&id=yEmPT1iidhE0&format=png" alt="telegram logo" height="37" />
     </a> &nbsp;&nbsp;
-    <a href="https://vk.com/sergeykarakoskin">
+    <a href="https://wa.me/79107139617">
       <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="what's up logo" height="40" />
     </a> &nbsp;&nbsp;
     <a href="https://vk.com/sergeykarakoskin">
@@ -95,6 +95,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
