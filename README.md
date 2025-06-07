@@ -17,7 +17,7 @@
   <h2>Меня зовут Сергей, я frontend разработчик</h2>
   <p>
     <br><h3>Разрабатываю пользовательский интерфейс на JS, TS, React, NextJS</h3>
-    <br><i>Свой путь в frontend разработке начал в 2024 году. Закончил курсы по web-разработке, разработке на JS, React c использованием TS и Redux от Campfire School и в настоящий момент продолжаю развитие и изучение новых технологий в данном направлении</i>
+    <br><i>Свой путь в frontend разработке начал в 2024 году. Закончил курсы по web-разработке, разработке на JS, React c использованием TS и Redux от <a href="https://campfire-school.com">Campfire School</a> и в настоящий момент продолжаю развитие и изучение новых технологий в данном направлении</i>
     <br><h3>Хочу:
     <br>:star: работать в крупной IT компании
     <br>:star: участвовать в разработке крупных коммерческих проектов
@@ -27,7 +27,18 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ...<br><br>- 📚 I'm currently learning ...<br><br>- ⚡ In my free time I ...</p><br>
+<p align="left">
+  - 🔭 В настоящее время работаю над проектом <a href="https://github.com/SergeySKA10/mortgage/tree/next">Mortgage</a><br><br>
+  - 📚  Все мои проекты доступны на <a href="http://sergeykarakoskin.ru/">моем сайте</a><br><br>
+  - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
+   <a href="mailto:karakoskinsergej@gmail.com">GMAIL</a>&nbsp;&nbsp;
+   <a href="mailto:skarakoskin@yandex.ru">Yandex</a>&nbsp;&nbsp;
+   <a href="https://t.me/karakoskinsergey" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+   </a>&nbsp;&nbsp;
+   <a href="https://wa.me/79107139617" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+   </a>
 
 ###
 
