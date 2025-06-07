@@ -106,7 +106,7 @@
 <h3>Codewars and LeetCode:</h3>
 
 ![Codewars](https://github.r2v.ch/codewars?user=SergeySKA10&theme=gradient)
-![](https://leetcard.jacoblin.cool/SergeySK?animation=true&border=0)
+![](https://leetcard.jacoblin.cool/SergeySK?theme=unicorn&border=0)
 
 ###
 <h3>:computer: Languages:</h3>
