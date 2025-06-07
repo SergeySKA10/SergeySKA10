@@ -82,7 +82,7 @@
   <img width="12" /><br>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Backend development:</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" /><br>
