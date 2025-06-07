@@ -41,33 +41,55 @@
       <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="what's up logo" height="40" />
     </a> &nbsp;&nbsp;
     <a href="https://vk.com/sergeykarakoskin">
-      <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="instagram logo" height="40" />
+      <img src="https://img.icons8.com/?size=80&id=nj0Uj45LGUYh&format=png" alt="instagram logo" height="40" />
     </a> &nbsp;&nbsp;
   <br><br>
   - :e-mail: Email:&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="gmail logo" height="20" /> <i>karakoskinsergej@gmail.com</i>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=80&id=Lte3xbvdkIse&format=png" alt="yandex logo" height="20" /> <i>skarakoskin@yandex.ru</i>
+  <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="gmail logo" height="30" /> <i>karakoskinsergej@gmail.com</i>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=80&id=Lte3xbvdkIse&format=png" alt="yandex logo" height="30" /> <i>skarakoskin@yandex.ru</i>
   <br><br>
 
 ###
 
-<h3 align="left">🛠 Skills:</h3>
+<h3 align="left">🛠 Skills and technologies:</h3>
 
 ###
 
-<div align="center">
+<div align="left" margin="50">
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Layout:</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" /><br>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" /><br>
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg " alt="bootstrap" height="40"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" height="40"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"  />
   <img width="12" /><br>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Frontend development:</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" /><br>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Backend development:</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" /><br>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Other:</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"  />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
@@ -78,20 +100,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" /><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
 </div><br>
 
 ###
