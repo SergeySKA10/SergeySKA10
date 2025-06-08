@@ -29,7 +29,7 @@
 
 <p align="left">
   - 🔭 В настоящее время работаю над проектом <a href="https://github.com/SergeySKA10/mortgage/tree/next">Mortgage</a><br><br>
-  - 📚  Все мои проекты доступны в <a href="http://sergeykarakoskin.ru/">портфолио</a><br><br>
+  - 📚  Все мои проекты доступны в <a href="https://sergeykarakoskin.ru/">портфолио</a><br><br>
   - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
     <a href="https://vk.com/sergeykarakoskin">
       <img src="https://img.icons8.com/?size=64&id=Mgea1VSzCVcS&format=png" alt="vk logo" height="40" />
