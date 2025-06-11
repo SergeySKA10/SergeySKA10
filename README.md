@@ -66,9 +66,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg " alt="bootstrap" height="40"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" height="40"  />
-  <img width="12" /><br>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Frontend development:</h4>
+  <br>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Frontend:</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -78,14 +77,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" /><br>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Backend development:</h4>
+  <br>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Backend:</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" /><br>
+  <br>
   <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Other:</h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"  />
@@ -96,34 +93,43 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" /><br>
+  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :books: Learning:</h4>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" height="40"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  
 </div><br>
 
 ###
-<h3>Codewars and LeetCode:</h3>
+<h4>Codewars and LeetCode:</h4>
 
 ![Codewars](https://github.r2v.ch/codewars?user=SergeySKA10&theme=gradient)
 ![](https://leetcard.jacoblin.cool/SergeySK?theme=unicorn&border=0)
 
 ###
-<h3>:computer: Languages:</h3>
+<h4> Languages:</h4>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-<h3>📊 GitHub Stats:</h3>
+<h4> GitHub Stats:</h4>
 
   ![](https://github-readme-stats.vercel.app/api?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://nirzak-streak-stats.vercel.app/?user=sergeyska10&theme=dark&hide_border=false)
   
 
 ###
-<h3>🏆 GitHub Trophies:</h3>
+<h4> GitHub Trophies:</h4>
 
 ![](https://github-profile-trophy.vercel.app/?username=sergeyska10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
