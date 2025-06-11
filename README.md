@@ -32,21 +32,21 @@
   - 📚  Все мои проекты доступны в <a href="https://sergeykarakoskin.ru/">портфолио</a><br><br>
   - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
     <a href="https://vk.com/sergeykarakoskin">
-      <img src="https://img.icons8.com/?size=64&id=Mgea1VSzCVcS&format=png" alt="vk logo" height="40" />
+      <img src="https://img.icons8.com/?size=64&id=Mgea1VSzCVcS&format=png" alt="vk logo" height="30" />
     </a> &nbsp;&nbsp;
     <a href="https://t.me/karakoskinsergey">
-      <img src="https://img.icons8.com/?size=80&id=yEmPT1iidhE0&format=png" alt="telegram logo" height="37" />
+      <img src="https://img.icons8.com/?size=80&id=yEmPT1iidhE0&format=png" alt="telegram logo" height="27" />
     </a> &nbsp;&nbsp;
     <a href="https://wa.me/79107139617">
-      <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="what's up logo" height="40" />
+      <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="what's up logo" height="30" />
     </a> &nbsp;&nbsp;
     <a href="https://vk.com/sergeykarakoskin">
-      <img src="https://img.icons8.com/?size=80&id=nj0Uj45LGUYh&format=png" alt="instagram logo" height="40" />
+      <img src="https://img.icons8.com/?size=80&id=nj0Uj45LGUYh&format=png" alt="instagram logo" height="30" />
     </a> &nbsp;&nbsp;
   <br><br>
   - :e-mail: Email:&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="gmail logo" height="30" /> <i>karakoskinsergej@gmail.com</i>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=80&id=Lte3xbvdkIse&format=png" alt="yandex logo" height="30" /> <i>skarakoskin@yandex.ru</i>
+  <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="gmail logo" height="25" /> <i>karakoskinsergej@gmail.com</i>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=80&id=Lte3xbvdkIse&format=png" alt="yandex logo" height="25" /> <i>skarakoskin@yandex.ru</i>
   <br><br>
 
 ###
@@ -105,31 +105,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   
 </div><br>
 
 ###
-<h4>Codewars and LeetCode:</h4>
+<h3>:trophy: Codewars and LeetCode:</h3>
 
 ![Codewars](https://github.r2v.ch/codewars?user=SergeySKA10&theme=gradient)
 ![](https://leetcard.jacoblin.cool/SergeySK?theme=unicorn&border=0)
 
 ###
-<h4> Languages:</h4>
+
+<h3>:bar_chart: GitHub Stats:</h3>
+
+<h4>&nbsp;&nbsp;&nbsp;&nbsp; Languages:</h4>
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-<h4> GitHub Stats:</h4>
+<h4>&nbsp;&nbsp;&nbsp;&nbsp; Stats:</h4>
 
   ![](https://github-readme-stats.vercel.app/api?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   ![](https://nirzak-streak-stats.vercel.app/?user=sergeyska10&theme=dark&hide_border=false)
   
-
-###
-<h4> GitHub Trophies:</h4>
+<h4>&nbsp;&nbsp;&nbsp;&nbsp; GitHub Trophies:</h4>
 
 ![](https://github-profile-trophy.vercel.app/?username=sergeyska10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
