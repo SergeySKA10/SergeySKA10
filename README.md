@@ -28,7 +28,7 @@
 ###
 
 <p align="left">
-  - 🔭 В настоящее время работаю над pet-проектом <a href="https://github.com/SergeySKA10/mortgage/tree/next">Mortgage</a><br><br>
+  - 🔭 В настоящее время работаю над pet-проектом <a href="https://github.com/SergeySKA10/mini-trello">mini-trello</a><br><br>
   - 📚  Все мои проекты доступны в <a href="https://sergeykarakoskin.ru/">портфолио</a><br><br>
   - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
     <a href="https://vk.com/sergeykarakoskin">
