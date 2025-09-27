@@ -1,137 +1,263 @@
 <div align="center">
-  <a href="https://t.me/karakoskinsergey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/79107139617" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-   </a>
-</div>
-
-###
-
-<h1 align="center">Hey there, 👋 How are you ?</h1><br>
-
-###
-
-<div align="left">
-  <h2>Меня зовут Сергей, я frontend разработчик</h2>
-  <p>
-    <br><h3>Разрабатываю пользовательский интерфейс на JS, TS, React, NextJS</h3>
-    <br><i>Свой путь в frontend разработке начал в 2024 году. Закончил курсы по web-разработке, разработке на JS, React c использованием TS и Redux от <a href="https://campfire-school.com">Campfire School</a> и в настоящий момент продолжаю развитие и изучение новых технологий в данном направлении</i>
-    <br><h3>Хочу:
-    <br>:star: работать в крупной IT компании
-    <br>:star: участвовать в разработке крупных коммерческих проектов
-    <br>:star: стать не только профессионалом в сфере frontend разработки, но и <br> высококвалифицированным fullstack разработчиком</h3>
-  </p>
-</div>
-
-###
-
-<p align="left">
-  - 🔭 В настоящее время работаю над pet-проектом <a href="https://github.com/SergeySKA10/mini-trello">mini-trello</a><br><br>
-  - 📚  Все мои проекты доступны в <a href="https://sergeykarakoskin.ru/">портфолио</a><br><br>
-  - 👨‍💻 Как со мной связаться:&nbsp;&nbsp;
-    <a href="https://vk.com/sergeykarakoskin">
-      <img src="https://img.icons8.com/?size=64&id=Mgea1VSzCVcS&format=png" alt="vk logo" height="30" />
-    </a> &nbsp;&nbsp;
-    <a href="https://t.me/karakoskinsergey">
-      <img src="https://img.icons8.com/?size=80&id=yEmPT1iidhE0&format=png" alt="telegram logo" height="27" />
-    </a> &nbsp;&nbsp;
-    <a href="https://wa.me/79107139617">
-      <img src="https://img.icons8.com/?size=80&id=d5ntEsf0JRhM&format=png" alt="what's up logo" height="30" />
-    </a> &nbsp;&nbsp;
-    <a href="https://vk.com/sergeykarakoskin">
-      <img src="https://img.icons8.com/?size=80&id=nj0Uj45LGUYh&format=png" alt="instagram logo" height="30" />
-    </a> &nbsp;&nbsp;
-  <br><br>
-  - :e-mail: Email:&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png" alt="gmail logo" height="25" /> <i>karakoskinsergej@gmail.com</i>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=80&id=Lte3xbvdkIse&format=png" alt="yandex logo" height="25" /> <i>skarakoskin@yandex.ru</i>
-  <br><br>
-
-###
-
-<h3 align="left">🛠 Skills and technologies:</h3>
-
-###
-
-<div align="left" margin="50">
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Layout:</h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg " alt="bootstrap" height="40"  />
-  <img width="12" />
-  <br>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Frontend:</h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <br>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Backend:</h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <br>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :heavy_check_mark: Other:</h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" /><br>
-  <h4>&nbsp;&nbsp;&nbsp;&nbsp; :books: Learning:</h4>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" height="40"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=48&id=YO3YqSaTOu5K&format=png" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
+  <!-- Language Switcher -->
+  <a href="#en">🇺🇸 English</a> | 
+  <a href="#ru">🇷🇺 Русский</a>
   
-</div><br>
+  <br>
+  
+  <!-- Social Badges -->
+  <a href="https://t.me/karakoskinsergey" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:karakoskinsergej@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://sergeykarakoskin.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/sergey-karakoskin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+  <a href="https://wa.me/79107139617" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
-###
-<h3>:trophy: Codewars and LeetCode:</h3>
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;TypeScript+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
+<!-- ENGLISH VERSION -->
+
+<a name="en"></a>
+
+## 👋 Hello! I'm Sergey Karakoskin
+
+### Frontend Developer | React • TypeScript • Next.js
+
+Passionate about creating modern, performant web applications with clean code and great user experience. I specialize in React ecosystem and love turning complex problems into simple, beautiful designs.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend Development:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)
+
+**Styling & Layout:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+<!-- PROJECT 1 -->
+
+| Project                                                             | Description                                                          | Tech Stack                  | Live Demo                                                 |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------- |
+| **[Mini Trello](https://github.com/SergeySKA10/mini-trello)**       | Task management application with drag & drop functionality           | Next.js, TypeScript, Redux, Express.js    | [🔗 Live Demo](https://your-demo-link.com)                |
+| **[Mortgage](https://github.com/SergeySKA10/mortgage)**             | Multi-page application with animations and custom components         | Next.js, TypeScript, Redux  | [🏠 In progress](https://github.com/SergeySKA10/mortgage) |
+| **[Movie Search](https://github.com/SergeySKA10/vk_movies_search)** | An app for searching movies with filters and adding to favorites     | React, API integration      | [🎬 Live Demo](https://vk-movies-search.vercel.app/)      |
+| **[Personal Portfolio](https://github.com/SergeySKA10/myWebPage)**  | Modern responsive portfolio website with animations                  | HTML, CSS, JavaScript, AOS  | [🌐 Visit Site](https://sergeykarakoskin.ru)              |
+| **[Cearmic Soul](https://github.com/SergeySKA10/ceramic_soul)**     | Multi-page responsive website (Mobile first) with various components | HTML, CSS(SASS), JavaScript | [🏺 Live Demo](https://ceramic.sergeykarakoskin.ru/)      |
+
+_<!-- TODO: Add more projects as needed -->_
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergeySKA10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeySKA10&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergeySKA10&theme=react-dark" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+### 🏆 Coding Practice
 
 ![Codewars](https://github.r2v.ch/codewars?user=SergeySKA10&theme=gradient)
-![](https://leetcard.jacoblin.cool/SergeySK?theme=unicorn&border=0)
+![LeetCode](https://leetcard.jacoblin.cool/SergeySK?theme=unicorn&border=0)
 
-###
+---
 
-<h3>:bar_chart: GitHub Stats:</h3>
+### 🎯 Current Focus
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp; Languages:</h4>
+-   🔭 **Working on:** Deepening React expertise through practical projects and understanding internal architecture
+-   🌱 **Learning:** Next.js 15, Node.js, Express.js, Nest.js, database design
+-   👯 **Looking to collaborate on:** Commercial projects and open source initiatives
+-   🤝 **Open to:** Junior Frontend Developer positions in IT companies
+-   💬 **Ask me about:** React, TypeScript, modern JavaScript, web performance
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<h4>&nbsp;&nbsp;&nbsp;&nbsp; Stats:</h4>
+### 📫 Let's Connect
 
-  ![](https://github-readme-stats.vercel.app/api?username=sergeyska10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=sergeyska10&theme=dark&hide_border=false)
+<div align="center">
+  <a href="https://t.me/karakoskinsergey" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:karakoskinsergej@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/sergey-karakoskin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
+  <a href="https://sergeykarakoskin.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<!-- RUSSIAN VERSION -->
+
+<a name="ru"></a>
+
+## 👋 Привет! Я Сергей Каракоскин
+
+### Frontend-разработчик | React • TypeScript • Next.js
+
+Увлекаюсь созданием современных, производительных веб-приложений с чистым кодом и отличным пользовательским опытом. Специализируюсь на экосистеме React и люблю превращать сложные проблемы в простые и красивые решения.
+
+---
+
+### 🛠️ Стек технологий
+
+**Frontend разработка:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)
+
+**Верстка и стилизация:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Бэкенд и базы данных:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Инструменты и платформы:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+### 🚀 Лучшие проекты
+
+| Проект                                                                 | Описание                                                                 | Технологии                  | Демо                                                      |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------- | --------------------------------------------------------- |
+| **[Mini Trello](https://github.com/SergeySKA10/mini-trello)**          | Приложение для управления задачами с drag & drop                         | Next.js, TypeScript, Redux, Express.js  | [🔗 Демо](https://mini-trello-gilt.vercel.app/)           |
+| **[Mortgage](https://github.com/SergeySKA10/mortgage)**                | Многостраничное приложение с анимациями и кастомными компанентами        | Next.js, TypeScript, Redux  | [🏠 В доработке](https://github.com/SergeySKA10/mortgage) |
+| **[Movie Search](https://github.com/SergeySKA10/vk_movies_search)**    | Приложение для поиска фильмов с фильтрами и добавлением в избранное      | React, API integration      | [🎬 Демо](https://vk-movies-search.vercel.app/)           |
+| **[Персональное портфолио](https://github.com/SergeySKA10/myWebPage)** | Современный адаптивный сайт-портфолио с анимациями                       | HTML, CSS, JavaScript, AOS  | [🌐 Сайт](https://sergeykarakoskin.ru)                    |
+| **[Cearmic Soul](https://github.com/SergeySKA10/ceramic_soul)**        | Многостраничный адаптивный сайт (Mobile first) с различными компонентами | HTML, CSS(SASS), JavaScript | [🏺 Демо](https://ceramic.sergeykarakoskin.ru/)           |
+
+---
+
+### 📊 Статистика GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergeySKA10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeySKA10&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergeySKA10&theme=react-dark" alt="График активности" width="100%"/>
+</div>
+
+---
+
+### 🏆 Практика программирования
+
+![Codewars](https://github.r2v.ch/codewars?user=SergeySKA10&theme=gradient)
+![LeetCode](https://leetcard.jacoblin.cool/SergeySK?theme=unicorn&border=0)
+
+---
+
+### 🎯 Текущие цели
+
+-   🔭 **Работаю над:** Углублением экспертизы в React через практические проекты и изучение внутренней архитектуры
+-   🌱 **Изучаю:** Next.js 15, Node.js, Express.js, Nest.js, проектирование баз данных
+-   👯 **Ищу сотрудничества:** Над коммерческими проектами и open source инициативами
+-   🤝 **Открыт для:** Позиции Junior Frontend Developer в IT-компаниях
+-   💬 **Спросите меня о:** React, TypeScript, современном JavaScript, веб-производительности
+
+---
+
+### 📫 Контакты
+
+<div align="center">
+  <a href="https://t.me/karakoskinsergey" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:karakoskinsergej@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/sergey-karakoskin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
+  <a href="https://sergeykarakoskin.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<div align="center">
   
-<h4>&nbsp;&nbsp;&nbsp;&nbsp; GitHub Trophies:</h4>
+[⬆ Back to top](#) • 
+[English Version](#en) • 
+[Русская версия](#ru)
 
-![](https://github-profile-trophy.vercel.app/?username=sergeyska10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 
 
