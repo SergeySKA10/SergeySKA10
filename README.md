@@ -3,7 +3,7 @@
   <a href="#en">🇺🇸 English</a> | 
   <a href="#ru">🇷🇺 Русский</a>
   
-  <br>
+  <br><br>
   
   <!-- Social Badges -->
   <a href="https://t.me/karakoskinsergey" target="_blank">
@@ -142,10 +142,14 @@ _<!-- TODO: Add more projects as needed -->_
 <br>
 
 ---
+---
 
 <!-- RUSSIAN VERSION -->
-
+<br>
 <a name="ru"></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=27AE60&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Specialist;TypeScript+Enthusiast" alt="Typing SVG" />
+</div>
 
 ## 👋 Привет! Я Сергей Каракоскин
 
