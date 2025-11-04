@@ -82,11 +82,11 @@ Passionate about creating modern, performant web applications with clean code an
 
 | Project                                                             | Description                                                          | Tech Stack                  | Live Demo                                                 |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------- |
-| **[Mini Trello](https://github.com/SergeySKA10/mini-trello)**       | Task management application with drag & drop functionality           | Next.js, TypeScript, Redux, Express.js    | [🔗Live Demo](https://mini-trello-gilt.vercel.app)                |
+| **[Mini Trello](https://github.com/SergeySKA10/mini-trello)**       | Task management application with drag & drop functionality           | Next.js, TypeScript, Redux, Express.js    | [🔗 Demo](https://mini-trello-gilt.vercel.app)                |
 | **[Mortgage](https://github.com/SergeySKA10/mortgage)**             | Multi-page application with animations and custom components         | Next.js, TypeScript, Redux  | [🏠 In progress](https://github.com/SergeySKA10/mortgage) |
-| **[Movie Search](https://github.com/SergeySKA10/vk_movies_search)** | An app for searching movies with filters and adding to favorites     | React, API integration      | [🎬 Live Demo](https://vk-movies-search.vercel.app/)      |
-| **[Personal Portfolio](https://github.com/SergeySKA10/myWebPage)**  | Modern responsive portfolio website with animations                  | HTML, CSS, JavaScript, AOS  | [🌐 Visit Site](https://sergeykarakoskin.ru)              |
-| **[Cearmic Soul](https://github.com/SergeySKA10/ceramic_soul)**     | Multi-page responsive website (Mobile first) with various components | HTML, CSS(SASS), JavaScript | [🏺 Live Demo](https://ceramic.sergeykarakoskin.ru/)      |
+| **[Movie Search](https://github.com/SergeySKA10/vk_movies_search)** | An app for searching movies with filters and adding to favorites     | React, API integration      | [🎬 Demo](https://vk-movies-search.vercel.app/)      |
+| **[Personal Portfolio](https://github.com/SergeySKA10/myWebPage)**  | Modern responsive portfolio website with animations                  | HTML, CSS, JavaScript, AOS  | [🌐 Site](https://sergeykarakoskin.ru)              |
+| **[Cearmic Soul](https://github.com/SergeySKA10/ceramic_soul)**     | Multi-page responsive website (Mobile first) with various components | HTML, CSS(SASS), JavaScript | [🏺 Demo](https://ceramic.sergeykarakoskin.ru/)      |
 
 _<!-- TODO: Add more projects as needed -->_
 
